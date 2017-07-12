@@ -1,0 +1,2 @@
+# azfun
+azure.cn functions
